@@ -1,0 +1,17 @@
+{
+  "repo": "signal-sec-policy-vault",
+  "thresholds": {
+    "signal": 4,
+    "slack": 1,
+    "confidence": 2,
+    "drag": 3,
+    "ship": 185,
+    "watch": 106
+  },
+  "terms": [
+    "trust boundary",
+    "claim drift",
+    "replay exposure",
+    "policy width"
+  ]
+}
